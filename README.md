@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Abrar Fahim. I am a Data Science and Analytics student at Brunel University London. 
+
+
