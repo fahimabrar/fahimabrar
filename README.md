@@ -2,6 +2,7 @@ I am Abrar Fahim, a Data Science and Analytics student(Msc) at Brunel University
 Connect with me on, <br>
 **<a href = "https://www.linkedin.com/in/abrar-fahim/"> Linkedin </a>** <br>
 **<a href = "https://www.researchgate.net/profile/Abrar-Fahim-2"> Research Gate </a>** <br>
+<a href = "https://www.abrarfahim.co.uk/">Personal Portfolio</a>
 email address: 2027461@brunel.ac.uk
 
 
