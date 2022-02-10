@@ -4,6 +4,3 @@ Connect with me on, <br>
 **<a href = "https://www.researchgate.net/profile/Abrar-Fahim-2"> Research Gate </a>** <br>
 **<a href = "https://www.abrarfahim.co.uk/">Personal Portfolio</a>** <br>
 
-
-
-https://meet.google.com/tyh-jztc-xsg
